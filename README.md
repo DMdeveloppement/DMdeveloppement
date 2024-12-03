@@ -19,6 +19,7 @@ class Skills extends SoftwareDeveloper {
   databases  = ['PostgreSQL', 'MySQL', 'Redis'];
   frameworks = ['Angular', 'React'];
   meta-frameworks = ['NextJS', 'TanStack Start'];
-  api = ['GraphQL', 'REST']
+  apis = ['GraphQL', 'REST']
+  tests = ['Jest', 'Mocha', 'Chai', 'Vitest', 'Karma'] 
 }
 ```
